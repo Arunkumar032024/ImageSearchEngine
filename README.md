@@ -3,3 +3,9 @@ Creating an Image Search Engine application with HTML, CSS, and JavaScript is an
 
 <br>
 Add favicon icon
+<br>
+Add userinterface
+<br>
+Add js functionality
+<br>
+Complete App
